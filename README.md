@@ -8,10 +8,10 @@ Note that Static website hosting essentially requires a public bucket, whereas t
 
 
 ## Topics Covered:
- S3 bucket creation
- S3 bucket configuration
- Website distribution via CloudFront
- Access website via web browser
+- S3 bucket creation
+- S3 bucket configuration
+- Website distribution via CloudFront
+- Access website via web browser
 
 ## Dependencies
 Cloud Services
